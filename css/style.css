@@ -1,0 +1,16 @@
+.panda-slide {
+  background-color: #fceae8;
+}
+.link-btn {
+  background-color: transparent;
+  border: 2px solid #ff408b;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.link-btn:hover {
+  background-color: #ff408b;
+  color: white;
+  transition: background-color 0.5s;
+}
