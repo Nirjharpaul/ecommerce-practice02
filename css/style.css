@@ -1,5 +1,6 @@
 .panda-slide {
   background-color: #feeae9;
+  border-radius: 10px;
 }
 .link-btn {
   background-color: transparent;
@@ -22,5 +23,12 @@
 }
 .categories img{
 height: 100px;
+}
+.categories{
+  border-radius: 10px;
+}
+.shoes-box{
+background-color: tomato;
+
 }
 
