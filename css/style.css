@@ -2,11 +2,13 @@
   background-color: #feeae9;
   border-radius: 10px;
 }
+.gutter{
+  color: white;
+}
 
 .panda-card{
 border: 0;
 border-radius: 10px;
-
 }
 .panda-card-footer{
   border: 0;
